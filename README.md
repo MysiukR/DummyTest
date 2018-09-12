@@ -41,9 +41,9 @@ This is a path to the credentials: TestProject-develop\src\main\resources
 
 - [Selenium](https://www.seleniumhq.org/) 3.14.0.
 
-### Alure
+### Allure
 
-- [Alure](http://allure.qatools.ru/) 6.11
+- [Allure](http://allure.qatools.ru/) 6.11
 
 ### Log4j
 
