@@ -45,6 +45,6 @@ This is a path to the credentials: TestProject-develop\src\main\resources
 
 - [Alure](http://allure.qatools.ru/) 6.11
 
-##№ Log4j
+### Log4j
 
 - [Log4j](http://logging.apache.org/log4j/1.2/) 1.2.17
